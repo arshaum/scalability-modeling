@@ -16,8 +16,8 @@ This project uses event YoY attendance data from 2022 - 2025 to forecast future 
 [Click here to view the interactive Google Sheet](https://docs.google.com/spreadsheets/d/1rTfByHHKHlox_2DDeB88c5UCsxOA2u_KcZrdQz4PPlw/edit?usp=sharing)
 
 ### 🖼️ Previews
+[Initial Data w/ Trendline](images/linear_trendline.png)
 ![Forecast Screenshots](Forecasting_2025-2027.png)
-(images/linear_trendline.png)
 
 ---
 
